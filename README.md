@@ -21,9 +21,11 @@ Hi, I’m Sandipan Singh.
   <img src="https://skillicons.dev/icons?i=flutter,reactnative,expo" />
   <img src="https://skillicons.dev/icons?i=firebase,cloudflare,vercel,docker" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
-  <img src="https://skillicons.dev/icons?i=nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/>
   <img src="https://skillicons.dev/icons?i=git,github,npm" />
   <img src="https://skillicons.dev/icons?i=appwrite,socketio" />
 </p>
+
 
 ---
