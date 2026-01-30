@@ -18,14 +18,15 @@ Hi, I’m Sandipan Singh.
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,php,python,dart" />
   <img src="https://skillicons.dev/icons?i=react,next,vite,redux,tailwind" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative,expo" />
   <img src="https://skillicons.dev/icons?i=firebase,cloudflare,vercel,docker" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
-  <img src="https://skillicons.dev/icons?i=nginx" />
+  <img src="https://skillicons.dev/icons?i=nginx,git,github,npm,socketio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/>
-  <img src="https://skillicons.dev/icons?i=git,github,npm" />
-  <img src="https://skillicons.dev/icons?i=appwrite,socketio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
 </p>
+<img src="https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logo=docker&logoColor=white"/>
 
 
 ---
