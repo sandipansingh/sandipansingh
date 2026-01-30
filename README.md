@@ -1,71 +1,29 @@
+# 💫 About Me:
+Hi, I’m Sandipan Singh.
+
+---
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sandipansingh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandipan.singh.02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipansinghgbt)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sandipannnnn)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:personal@sandipansingh.com)
+
+---
+
 # 💻 Tech Stack:
 
----
-
-## 🖥️ Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,php,python,dart" />
-</p>
-
----
-
-## 🌐 Frontend Development
-<p align="left">
   <img src="https://skillicons.dev/icons?i=react,next,vite,redux,tailwind" />
-</p>
-
----
-
-## 📱 Mobile Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative,expo" />
-</p>
-
----
-
-## ⚙️ Backend & APIs
-<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
----
-
-## 🔐 Authentication & Security
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</p>
-
----
-
-## 🛢️ Databases & Storage
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,reactnative,expo" />
+  <img src="https://skillicons.dev/icons?i=firebase,cloudflare,vercel,docker" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
-</p>
-
----
-
-## ☁️ Cloud & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker" />
-</p>
-
----
-
-## 🐳 DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,apache" />
-</p>
-
----
-
-## 🔧 Developer Tools
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=nginx,apache" />
   <img src="https://skillicons.dev/icons?i=git,github,npm" />
-</p>
-
----
-
-## ⚡ Other Platforms
-<p align="left">
   <img src="https://skillicons.dev/icons?i=appwrite,socketio" />
 </p>
+
+---
